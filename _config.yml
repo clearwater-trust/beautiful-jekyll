@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: ""
-baseurl: ""
+baseurl: "clearwater-trust.com"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,16 +23,14 @@ description: professional blockchain escrow and bitcoin banking services.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  About: "https://clearwater-trust.com/#about"
+  Wallet: "https://clearwater-trust.com/wallet
+  Contact: "https://clearwater-trust.com/#contact"
+  Blog: "blog.clearwater-trust.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
