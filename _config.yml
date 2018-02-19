@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "clearwater-trust.com"
+url: ""
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -23,7 +23,7 @@ description: professional blockchain escrow and bitcoin banking services.
 
 # List of links in the navigation bar
 navbar-links:
-  About:
+  About: "clearwater-trust.com/#about"
   Wallet:
   Contact:
   Blog:
