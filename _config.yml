@@ -91,9 +91,9 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -118,14 +118,14 @@ url-pretty: "clearwater-trust.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "clearwater-trust"
 
 # Facebook App ID
 # fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 150
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
