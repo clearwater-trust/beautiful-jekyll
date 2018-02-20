@@ -3,6 +3,9 @@ layout: post
 title: The Genesis Block
 subtitle: in the beginning
 published: true
+tags:
+  - bitcoin
+  - blockchain
 ---
 The first block created on Bitcoin’s blockchain contains, along with the normal data, the following text:
 
