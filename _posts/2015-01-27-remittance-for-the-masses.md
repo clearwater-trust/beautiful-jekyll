@@ -3,6 +3,9 @@ layout: post
 title: Remittance For The Masses
 published: true
 subtitle: revolutionary technology changing the world
+tags:
+  - bitcoin
+  - blockchain
 ---
 ![clearwater-trust people]({{site.baseurl}}/img/clearwater-trust-people.gif)
 
