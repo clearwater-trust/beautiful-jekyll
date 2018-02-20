@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Hello and Welcome!
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge:
-  - star
-  - fork
-  - follow
+subtitle: to clearwater-trust.com
+gh-repo: null
+gh-badge: null
 tags:
-  - test
+  - news
 published: true
 ---
 
