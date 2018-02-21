@@ -6,6 +6,8 @@ subtitle: revolutionary technology changing the world
 tags:
   - bitcoin
   - blockchain
+  - remittance
+date: '2017-09-12'
 ---
 ![clearwater-trust people]({{site.baseurl}}/img/clearwater-trust-people.gif)
 
