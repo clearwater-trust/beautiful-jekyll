@@ -7,6 +7,7 @@ gh-badge: null
 tags:
   - news
 published: true
+date: '2018-01-20'
 ---
 
 Clearwater-Trust is here to help answer your questions and keep your blockchain funds safe and secure. Feel free to drop me a line: **[peter@clearwater-trust.com](mailto:peter@clearwater-trust.com)** 
