@@ -4,8 +4,9 @@ title: Bringing People Together From Around The Planet!
 tags:
   - bitcoin
   - blockchain
-  - null
 published: true
+date: '2017-10-23'
+subtitle: sending bitcoin to your friends and family around the world!
 ---
 Our nodes are touching!
 
