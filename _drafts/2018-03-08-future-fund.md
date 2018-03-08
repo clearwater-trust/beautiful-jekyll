@@ -23,4 +23,4 @@ Are you a Patriot?
 
 Clearwater-trust is a fund for your future. It's a future for us all. A better place to do business. 
 
-### _[clearwater-trust.com](https://clearwater-trust.com) - invest in the future, a future worth living in._ton for formatting help.
+### _[clearwater-trust.com](https://clearwater-trust.com) - invest in the future, a future worth living in.
