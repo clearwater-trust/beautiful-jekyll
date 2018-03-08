@@ -5,8 +5,6 @@ published: false
 
 ... without a bank or government involved. 
 
-Are you tired of paying for borders and nonsense wars that make corporations and cartels wealthy?
-
 Do you think there is a better way of doing business?
 
 Do you believe that mathematics is a better store of value than the Federal Reserve?
@@ -23,4 +21,4 @@ Are you a Patriot?
 
 Clearwater-trust is a fund for your future. It's a future for us all. A better place to do business. 
 
-### _[clearwater-trust.com](https://clearwater-trust.com) - invest in the future, a future worth living in.
+### [clearwater-trust.com](https://clearwater-trust.com) - invest in the future, a future worth living in.
