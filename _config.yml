@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url:"http://clearwater-trust.github.io"
+url: "http://clearwater-trust.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -34,7 +34,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
- title-img: "https:///clearwater-trust.com/img/clearwater.png"
+title-img: "https:///clearwater-trust.com/img/clearwater.png"
 
 # --- Background colour/image options --- #
 
