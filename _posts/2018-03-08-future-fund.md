@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+published: true
+title: Fund The Future
+subtitle: a better way forward
+date: '2018-03-09'
+tags:
+  - news
 ---
 ## Send value around the world!
 
