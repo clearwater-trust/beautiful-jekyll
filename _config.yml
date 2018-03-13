@@ -24,6 +24,7 @@ description: professional blockchain escrow and bitcoin banking services.
 # List of links in the navigation bar
 navbar-links:
   About: "https://clearwater-trust.com/#about"
+  Compliance: "https://clearwater-trust.com/compliance.html"
   Wallet: "https://clearwater-trust.com/wallet"
   Contact: "https://clearwater-trust.com/#contact"
   Blog: "https://clearwater-trust.github.io"
