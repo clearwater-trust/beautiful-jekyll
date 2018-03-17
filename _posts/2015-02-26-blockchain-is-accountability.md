@@ -9,7 +9,7 @@ tags:
 published: true
 date: '2017-11-07'
 ---
-A cool, new feature of the network! Trusless, distrubuted, and decentralized power to the people.
+A cool, new feature of the network! Trustless, distrubuted, and decentralized power to the people.
 
 ![clearwater-trust blockchain]({{site.baseurl}}/img/blockchain-people.jpg)
 
