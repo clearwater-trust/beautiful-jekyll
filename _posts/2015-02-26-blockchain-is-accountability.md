@@ -5,7 +5,7 @@ subtitle: the future is looking good
 bigimg: /img/path.jpg
 tags:
   - blockchain
-  - null
+  - news
 published: true
 date: '2017-11-07'
 ---
