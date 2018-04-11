@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: 'Irrational Exuberance '
 subtitle: Evaluating blockchains for investment and scams.
 date: '2018-04-10'
