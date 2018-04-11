@@ -13,7 +13,12 @@ I can think of many practical uses for state/corporate sponsored blockchains. Tr
 
 **Only blockchains that are decentralized and distributed are appropriate for stores of monetary value.**
 
-One easy test for decentralization and distribution is to ask yourself if your blockchain can be subpoenaed, litigated and/or sued ([XRP](https://www.forbes.com/sites/laurashin/2017/09/08/blockchain-enterprise-firms-r3-and-ripple-sue-each-other-over-1-billion-of-cryptocurrency/#16dd11854289)). This includes the development group and/or figureheads at the top of your blockchain ([ETH](https://en.wikipedia.org/wiki/Vitalik_Buterin "Vitalik Buterin")).  If your development group gets 'shut-down' by the government, will your blockchain continue to thrive?
+One easy test for decentralization and distribution is to ask yourself if your blockchain can be subpoenaed, litigated and/or sued ([XRP](https://www.forbes.com/sites/laurashin/2017/09/08/blockchain-enterprise-firms-r3-and-ripple-sue-each-other-over-1-billion-of-cryptocurrency/#16dd11854289)). This includes the development group and/or figureheads at the top of your blockchain ([ETH](https://en.wikipedia.org/wiki/Vitalik_Buterin "Vitalik Buterin")).  If your development group gets 'shut-down' by the government, will your blockchain continue to function?
+
+Gold cannot be litigated, subpoenaed and/or sued. Your blockchain should be untouchable to law enforcement and legislature if you are considering moving real value onboard. Satoshi Nakamoto is dead, long live bitcoin… and the more secure and private ([XMR](https://getmonero.org "Monero"))
+
+
+Does your blockchain offer anything unique? Smart contract integration and/or obfuscated transactions like XMR?
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
