@@ -9,7 +9,7 @@ tags:
   - blockchain
   - news
   - investment
-image: /img/monero.png
+image: /img/clearwater-logo.png
 ---
 Is your blockchain distributed and decentralized? Do you know what makes bitcoin-- bitcoin?  Do you know why Satoshi Nakamoto will never be found and is already dead (RIP [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist "Satoshi Nakamoto")). The answer is **decentralization** and **distribution**. Only blockchains that are decentralized and distributed are appropriate for stores of monetary value.
 
