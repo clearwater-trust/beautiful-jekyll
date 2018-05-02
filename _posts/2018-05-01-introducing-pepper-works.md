@@ -12,7 +12,7 @@ tags:
 
 Let's face it, [Shopping with Decred](https://pepper.works) can be a real joy. And don't forget, [paying for Amazon items with Monero](https://pepper.works) is feakin' sweet.
 
-What about [puchasing amazon products with Litecoin](https://pepper.works)? Yeah, that's the bees knees right there.
+What about [purchasing amazon products with Litecoin](https://pepper.works)? Yeah, that's the bees knees right there.
 
 Did you hear about [pepper.works](https://pepper.works)? It allows you to [pay with Dogecoin on amazon](https://pepper.works).
 
