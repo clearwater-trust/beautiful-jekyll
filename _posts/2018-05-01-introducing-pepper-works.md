@@ -1,9 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: Introducing Pepper.Works
 subtitle: Shop Amazon With Crypto
 date: '2018-05-01'
+tags:
+  - pepper.works
+  - news
 ---
 ## It's fun to buy stuff with crypto.
 
@@ -20,5 +23,3 @@ You should try it now! I just [bought stuff from amazon with bitcoin cash](https
 It's true, this entire post is for search spiders.  So, if a human is reading this, "Hello! I'm human too!"
 
 ![shop amazon with crypto]({{site.baseurl}}/img/pepper-works-square.png)!
-
-
