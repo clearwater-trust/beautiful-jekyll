@@ -10,7 +10,7 @@ tags:
 ---
 [Shop with Bitcoin](https://pepper.works), Monero, Decred, Litecoin, Dogecoin, Ethereum, and Bitcoin Cash!
 
-Let's face it, [Shopping with Decred](https://pepper.works) can be a real joy. And don't forget, [paying for Amazon items with Monero](https://pepper.works) is feakin' sweet.
+Let's face it, [Shopping with Decred](https://pepper.works) can be a real joy. And don't forget, [selling your stuff with Monero](https://pepper.works) is feakin' sweet.
 
 What about [purchasing products with Litecoin](https://pepper.works)? Yeah, that's the bees knees right there.
 
