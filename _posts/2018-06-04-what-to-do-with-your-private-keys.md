@@ -14,3 +14,5 @@ Do you back them up on a USB drive that lives in your top drawer? Do you keep an
 [When you die, what happens to your private keys](https://clearwater-trust.com)? How will your family access the value that you've been dutifully holding for state collapse and zombie apocalypse?
 
 [Clearwater-Trust.com - Gravity powered time-lock deposit boxes for private key storage and afterlife fund distribution.](https://clearwater-trust.com)
+
+hehehe
