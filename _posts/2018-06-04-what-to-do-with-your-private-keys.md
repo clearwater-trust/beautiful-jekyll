@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: What To Do With Your Private Keys?
 subtitle: How and where do you store your private keys?
 bigimg: /img/paintings-classic.jpg
