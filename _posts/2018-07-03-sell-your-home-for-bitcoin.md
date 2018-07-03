@@ -9,7 +9,7 @@ tags:
   - news
   - clearwater-trust.com
 ---
-**Considerations for selling your property for crypto.**
+**Considerations on selling your property for crypto.**
 - Tax payments
 - Title company payouts
 - Just like cash
