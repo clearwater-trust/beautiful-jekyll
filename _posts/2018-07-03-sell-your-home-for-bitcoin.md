@@ -9,8 +9,6 @@ tags:
   - news
   - clearwater-trust.com
 ---
-How to sell your home for **bitcoin** or **monero**.
-
 **Considerations for selling your property for crypto.**
 - Tax payments
 - Title company payouts
