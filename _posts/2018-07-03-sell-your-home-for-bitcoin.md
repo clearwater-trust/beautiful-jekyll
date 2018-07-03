@@ -16,7 +16,7 @@ tags:
 - All oustanding liens and loans will be paid in cash.
 
 **Assuming you own the home outright.**
-All sales tax will be paid in cash. Do you need a broker or a neutral third-party for your home sale in crypto? [Clearwater-Trust.com](https://clearwater-trust.com)
+All sales tax will be paid in cash. Do you need a broker or neutral third-party for your home sale in crypto? [Clearwater-Trust.com](https://clearwater-trust.com)
 
 The sale will proceed just like a cash payment. Title comapny fees will be paid in cash.
 
