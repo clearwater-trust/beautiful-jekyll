@@ -2,13 +2,19 @@
 layout: post
 published: false
 title: Sell Your Home For Bitcoin
+subtitle: How To Sell Your Home For Crypto
+bigimg: /img/home.jpeg
+tags:
+  - blockchain
+  - news
+  - clearwater-trust.com
 ---
 How to sell your home for **bitcoin** or **monero**.
 
-- I Want to Sell *.* For crypto
-- I Want to sell my home for crypto
-- I want to sell my car for crypto
-- I want to sell my everything for crypto
+- I Want to Sell Everything For crypto
+- I Want to Sell my home for crypto
+- I Want to Sell my car for crypto
+- I Want to Sell my everything for crypto
 
 **Considerations for selling your property for crypto.**
 Tax payments
