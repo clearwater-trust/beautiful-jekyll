@@ -13,10 +13,9 @@ How to sell your home for **bitcoin** or **monero**.
 
 **Considerations for selling your property for crypto.**
 - Tax payments
-- Title comapny payouts
+- Title company payouts
 - Just like cash
 - All oustanding liens and loans will be paid in cash.
-
 
 **Assuming you own the home outright.**
 All sales tax will be paid in cash. Do you need a broker or a neautral third-party for your home sale in crypto? [Clearwater-Trust.com](https://clearwater-trust.com)
