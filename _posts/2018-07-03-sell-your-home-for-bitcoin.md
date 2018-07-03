@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Sell Your Home For Bitcoin
 subtitle: How To Sell Your Home For Crypto
 bigimg: /img/home.jpeg
