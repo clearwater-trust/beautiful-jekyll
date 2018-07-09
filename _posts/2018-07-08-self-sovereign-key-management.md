@@ -2,8 +2,13 @@
 layout: post
 published: false
 title: Self-Sovereign Key Management
+subtitle: What does blockchain expect of me?
+bigimg: /img/selfowncat.jpg
+tags:
+  - blockchain
+  - news
+  - clearwater-trust.com
 ---
-### What does blockchain expect of me?
 Do you want distributed, decentralized, FOSS blockchains to thrive and grow? Self-Sovereign Key Managment is the first- and most important-  barrier to blockchain entry.
 
 What do I mean by Self-Soverign Key Management? This means that all individuals take responsibility for their private keys. It means we can easily, safely and securely use, transfer and store valuable 'secret' hashes. 
