@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Self-Sovereign Key Management
 subtitle: What does blockchain expect of me?
 bigimg: /img/selfowncat.jpg
