@@ -14,20 +14,24 @@ If we accept anything less than personal custody of our private keys, then we ma
 
 Consider Scenario ONE. I like to call it the Stoned Uncle Scenario.
 
-Where is your private key, Uncle?
+_Where is your private key, Uncle?_
+
 "I don't know. I leave all my coins on Coinbase so i don't have to worry about it."  **FAIL**
 
-Where is your private key, Uncle?
+_Where is your private key, Uncle?_
+
 "I don't know, I lost it."  **FAIL**
 
-Where is your private key, Uncle?
+_Where is your private key, Uncle?_
+
 "I have backup copies in triplicate stored in various places ITRW and encrypted in the cloud." **SUCCESS**
 
 If we are unable to convince EVERYBODY that storing private keys is part of the blockchain contract, then WTF are we doing on the blockchain?
 
-Nobody is going to save you from yourself. Part of the new-world order is our ability to manage real value without involving ANYBODY else. 
+Nobody is going to save you from yourself. Part of the new world order is our ability to manage real value without involving ANYBODY else. 
 
 This is self-sovereign key management. Without it, all blockchains are worthless. 
 
 [buy and sell anything with crypto at pepper.works](https://pepper.works)
+
 [bitcoin and banking services at clearwater-trust.com](https://clearwater-trust.com)
