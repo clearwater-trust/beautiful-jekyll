@@ -27,6 +27,6 @@ Through the network, a DAO allows for consensus through tokenized game theory. 
 
 The DAO is the beginning of a revolution. Removing the physical and forced barriers of consensus, aligning people and machines to work together for a common goal, the DAO will pave the way forward for governments and commerce all around the world and the galaxy!   
 
-Join BISQ. Join a DAO. The future is NOW!
+[Join BISQ. Join a DAO. The future is NOW!](https://bisq.network)
 [![]({{site.baseurl}}/img/bisq.jpg)](https://bisq.network)
 
