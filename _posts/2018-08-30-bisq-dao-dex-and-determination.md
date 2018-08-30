@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'BISQ, DAO, DEX and DETERMINATION'
 subtitle: >-
   Remove the friction of middle-ware, middle-men and middle-earth. Get real. Get
