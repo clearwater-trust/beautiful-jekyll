@@ -6,6 +6,12 @@ subtitle: >-
   Remove the friction of middle-ware, middle-men and middle-earth. Get real. Get
   BISQ.
 date: '2018-10-01'
+bigimg: /img/DAO-cats.jpg
+tags:
+  - blockchain
+  - BISQ
+  - DAO
+  - clearwater-trust.com
 ---
 I want to use escrow when I trade. I want to use a private network with multi-signature accounts and neutral arbitrators incentivized by a decentralized autonomous organization. What am I talking about? Why does this matter? Let's break it down.
 
@@ -21,6 +27,7 @@ Through the network, a DAO allows for consensus through tokenized game theory. 
 
 The DAO is the beginning of a revolution. Removing the physical and forced barriers of consensus, aligning people and machines to work together for a common goal, the DAO will pave the way forward for governments and commerce all around the world and the galaxy!   
 
-Join BISQ. Join a DAO. The future is NOW! 
+Join BISQ. Join a DAO. The future is NOW!
+[![]({{site.baseurl}}/img/bisq.jpg)](https://bisq.network)
 
 Remove the friction of middle-ware, middle-men and middle-earth. Get real. Get BISQ.
