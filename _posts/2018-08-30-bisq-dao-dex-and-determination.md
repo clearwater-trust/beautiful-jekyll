@@ -1,11 +1,11 @@
 ---
 layout: post
-published: true
+published: false
 title: 'BISQ, DAO, DEX and DETERMINATION'
 subtitle: >-
   Remove the friction of middle-ware, middle-men and middle-earth. Get real. Get
   BISQ.
-date: '2018-10-01'
+date: '2018-09-01'
 bigimg: /img/DAO-cats.jpg
 tags:
   - blockchain
@@ -19,7 +19,7 @@ The worst part about crypto is having to move in and out of fiat dollars, euro, 
 
 **The best way to trade is with your neighbors**. Find a community with top-notch open source protocols and a private network that provides incentives for people to do the right thing. Find your DAO.  
 
-BISQ is a decentralized exchange that allows you to trade/barter directly with your neighbors through a private network (TOR). BISQ is a DAO that incentivises fair-play by rewarding contributors through the bitcoin network using colored coins.
+[BISQ](https://bisq.network) is a decentralized exchange that allows you to trade/barter directly with your neighbors through a private network (TOR). BISQ is a DAO that incentivises fair-play by rewarding contributors through the bitcoin network using colored coins. [**More info on the BISQ DAO here.**](https://github.com/bisq-network/bisq-docs/blob/master/dao/phase-zero.adoc)
 
 What is a DAO? (Decentralized Autonomous Organization) - In the past we had caucuses, quorums, congresses, congregations and corporations. Now, we have DAOs. The DAO is a new way for like-minded individuals to make decisions and move forward with consensus. 
 
@@ -30,4 +30,3 @@ The DAO is the beginning of a revolution. Removing the physical and forced barri
 Join BISQ. Join a DAO. The future is NOW!
 [![]({{site.baseurl}}/img/bisq.jpg)](https://bisq.network)
 
-Remove the friction of middle-ware, middle-men and middle-earth. Get real. Get BISQ.
