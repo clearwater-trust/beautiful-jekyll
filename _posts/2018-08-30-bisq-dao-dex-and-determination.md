@@ -23,8 +23,6 @@ The worst part about crypto is having to move in and out of fiat dollars, euro, 
 
 What is a DAO? (Decentralized Autonomous Organization) - In the past we had caucuses, quorums, congresses, congregations and corporations. Now, we have DAOs. The DAO is a new way for like-minded individuals to make decisions and move forward with consensus. 
 
-Through the network, a DAO allows for consensus through tokenized game theory. _Actually, I have no idea what game theory is, and either do you. But it sounds nice._
-
 The DAO is the beginning of a revolution. Removing the physical and forced barriers of consensus, aligning people and machines to work together for a common goal, the DAO will pave the way forward for governments and commerce all around the world and the galaxy!   
 
 [Join BISQ. Join a DAO. The future is NOW!](https://bisq.network)
