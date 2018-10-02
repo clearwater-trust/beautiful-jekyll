@@ -22,4 +22,4 @@ Enter [Monero](https://getmonero.org). A usable, always on, obfuscated blockchai
 
 [If you think fungible money is fun. Check out XMR Monero.](https://getmonero.org)
 
-[making fun out of fungibility - clearwater-trust.com](https://clearwater-trust.com)
+[Making fun out of fungibility - clearwater-trust.com](https://clearwater-trust.com)
