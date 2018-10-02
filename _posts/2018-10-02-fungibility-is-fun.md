@@ -3,6 +3,12 @@ layout: post
 published: false
 title: Fungibility is Fun.
 subtitle: Is this a feature or a bug?
+bigimg: /img/Edward_Robert_Hughes.jpg
+tags:
+  - bitcoin
+  - fungible
+  - monero
+  - clearwater-trust.com
 ---
 Your coinbase bitcoin was used to purchase marijuana on Silk Road, sent to Mt. Gox, stolen in a $500 million dollar heist, funneled through localbitcoins, and now you 'own' it. 
 
@@ -16,4 +22,4 @@ Enter [Monero](https://getmonero.org). A usable, always on, obfuscated blockchai
 
 [If you think fungible money is fun. Check out XMR Monero.](https://getmonero.org)
 
-[making fun out of fungibility - clearwater-trust.com](https://clearwater-trust.com) 
+[making fun out of fungibility - clearwater-trust.com](https://clearwater-trust.com)
