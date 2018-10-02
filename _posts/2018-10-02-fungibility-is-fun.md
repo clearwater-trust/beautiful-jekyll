@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Fungibility is Fun.
 subtitle: Is this a feature or a bug?
 bigimg: /img/Edward_Robert_Hughes.jpg
