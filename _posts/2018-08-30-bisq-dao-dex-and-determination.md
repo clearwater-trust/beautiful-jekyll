@@ -28,4 +28,6 @@ The DAO is the beginning of a revolution. Removing the physical and forced barri
 [Join BISQ. Join a DAO. The future is NOW!](https://bisq.network)
 [![]({{site.baseurl}}/img/bisq.jpg)](https://bisq.network)
 
+[get your bisq merchandise at bisq.shop](https://bisq.shop "bisq branded")!
+
 [clearwater-trust.com - web finance 2.o experts](https://clearwater-trust.com)
