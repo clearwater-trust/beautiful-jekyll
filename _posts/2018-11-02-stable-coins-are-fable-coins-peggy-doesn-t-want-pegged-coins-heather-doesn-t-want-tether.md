@@ -4,6 +4,13 @@ published: false
 title: >-
   Stable coins are fable coins. Peggy doesn't want pegged coins. Heather doesn't
   want Tether.
+bigimg: /img/stable.png
+tags:
+  - bitcoin
+  - monero
+  - stable coins
+  - clearwater-trust.com
+subtitle: The Gemini Dollar is a Bother.
 ---
 ![stable.png]({{site.baseurl}}/img/stable.png)
 
