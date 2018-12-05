@@ -23,19 +23,19 @@ description: professional blockchain escrow and bitcoin banking services.
 
 # List of links in the navigation bar
 navbar-links:
-  About: "https://clearwater-trust.com/#about"
-  Compliance: "https://clearwater-trust.com/compliance.html"
-  Wallet: "https://clearwater-trust.com/wallet"
-  Contact: "https://clearwater-trust.com/#contact"
+  About: "https://clearwater-trust.com/about/"
+  Members: "https://clearwater-trust.com/members/"
+  Activity: "https://clearwater-trust.com/activity/"
+  Contact: "https://clearwater-trust.com/contact/"
   Blog: "https://clearwater-trust.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https:///clearwater-trust.github.io/img/me_and_mo.jpeg"
+# avatar: "https:///clearwater-trust.github.io/img/me_and_mo.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "https:///clearwater-trust.com/img/clearwater.png"
+# title-img: "https:///clearwater-trust.com/img/clearwater.png"
 
 # --- Background colour/image options --- #
 
