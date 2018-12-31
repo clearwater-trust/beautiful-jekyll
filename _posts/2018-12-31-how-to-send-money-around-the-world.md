@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: How To Send Money Around The World
 subtitle: Global Finance Without The Bullshit
 bigimg: /img/ship.jpeg
