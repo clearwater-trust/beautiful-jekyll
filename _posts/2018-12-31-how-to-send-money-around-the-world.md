@@ -3,6 +3,12 @@ layout: post
 published: false
 title: How To Send Money Around The World
 subtitle: Global Finance Without The Bullshit
+bigimg: /img/stable.png
+tags:
+  - bitcoin
+  - monero
+  - clearwater-trust.com
+  - finance
 ---
 I want to do business with a friend in Spain, a customer is Sweden, a person in Guatamala, a relative in California, a client in Calodinia, a supplier in China. Imagine trying to accept and send payments to all of these individuals.
 
