@@ -10,8 +10,6 @@ tags:
   - clearwater-trust.com
   - finance
 ---
-![ship.jpeg]({{site.baseurl}}/img/ship.jpeg)
-
 I want to do business with a friend in Spain, a customer is Sweden, a person in Guatamala, a relative in California, a client in Caledonia, a supplier in China. Imagine trying to accept and send payments to all of these individuals.
 
 How long does it take to get paid using legacy payment networks? How many "verifications" and "test deposits" are required before paypal allows you to withdrawal your money? Legacy banking technology is purposely built to block global trade and self-sovereign finance.
