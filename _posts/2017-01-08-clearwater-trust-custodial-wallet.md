@@ -4,6 +4,11 @@ published: false
 title: Clearwater-Trust Custodial Wallet
 date: '2017-01-01'
 subtitle: Enter the Blockchain Together
+bigimg: img/sun-future.jpeg
+tags:
+  - bitcoin
+  - monero
+  - finance
 ---
 Moving into the complex environment of blockchain banking requires a disciplined approach and a thorough understanding of digital decentralization. How will you store your funds, backup wallet keys, save mnemonic seeds, upgrade your software, and ensure you are on the best chain?
 
