@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Clearwater-Trust Custodial Wallet
 date: '2017-01-01'
 subtitle: Enter the Blockchain Together
