@@ -14,4 +14,4 @@ Moving into the complex environment of blockchain banking requires a disciplined
 
 Running and maintaining your own wallet node with software provided and signed by core contributors will always be your safest configuration. Clearwater-Trust.com provides direction, instruction and guidance in setting up your very own node. 
 
-[Join us](https://clearwater-trust.com), we’ll invest together. Let’s move into the future and fulfill the promise of tomorrow through self-sovereign finance.
+[Join us](https://clearwater-trust.com), we’ll invest together. Let’s move into the future and fulfill the promise of self-sovereign finance.
