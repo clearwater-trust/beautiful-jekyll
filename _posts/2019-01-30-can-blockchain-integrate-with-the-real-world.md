@@ -2,8 +2,11 @@
 layout: post
 published: false
 title: Can Blockchain Integrate With The Real World?
+subtitle: >-
+  Is reality real? Is time an abstraction? Are tiny microbes in my stomach
+  talking to me?
 ---
-Code is a mathematical concept not a physical reality. If you attempt to attach real world things to a blockchain, the utility is contaminated and rendered obsolete.  Therefore, it is without any input from reality that gives blockchain utility. 
+Code is a mathematical concept not a physical reality. If you attempt to attach real world things to a blockchain, the utility is contaminated and rendered obsolete.  Therefore, it is without any input from reality that gives blockchain value. 
 
 Money isn't real. Math is an abstraction. Blockchain can function as a transactional proof because people agree on code. The blockchain can be valuable only through people's agreements.  
 
