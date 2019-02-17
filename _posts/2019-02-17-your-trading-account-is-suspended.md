@@ -3,6 +3,12 @@ layout: post
 published: false
 title: Your Trading Account Is Suspended
 subtitle: The true story of centralized crypto exchanges
+bigimg: /img/classic-crypto-truth.png
+tags:
+  - news
+  - clearwater-trust.com
+  - finance
+  - bitcoin
 ---
 ## YOUR TRADING ACCOUNT IS SUSPENDED
 
