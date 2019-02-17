@@ -21,3 +21,5 @@ What if Legislators, DOD contractors, Pentagon patriots, and Senators were made 
 That is insane. **You are insane if you believe military entitlement queens won’t chop all of our heads off for money.**       
 
 Bitcoin- Not Bombs.
+
+_Get real, self-sovereign finance on [clearwater-trust.com](https://clearwater-trust.com )_
