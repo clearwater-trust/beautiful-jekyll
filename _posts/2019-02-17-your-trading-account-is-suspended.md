@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Your Trading Account Is Suspended
 subtitle: The true story of centralized crypto exchanges
 bigimg: /img/classic-crypto-truth.png
