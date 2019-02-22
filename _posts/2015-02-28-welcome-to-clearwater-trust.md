@@ -14,7 +14,7 @@ Clearwater-Trust is here to help answer your questions and keep your blockchain 
 
 Do you need help with your bitcoin transaction? Do you have questions about securing your wallet? How are you storing your private keys?
 
-Our [bitcoin wallet](https://clearwater-trust.com/wallet) is always available with live support.
+Our [bitcoin wallet](https://clearwater-trust.com/register) is always available with live support.
 
 I'm here to answer your questions and help with your blockchain investments. 
 
