@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Financial Gatekeepers
 bigimg: /img/classic-gatekeeper.jpeg
 tags:
