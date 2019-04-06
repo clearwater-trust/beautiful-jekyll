@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: FINTECH and the Regurgitated Credit Card
 bigimg: /img/fintech.jpeg
 tags:
