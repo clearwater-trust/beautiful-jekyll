@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Bitcoin Monero Zcash Litecoin Exchange on Clearwater-Trust.com
 subtitle: Market Makers Wanted
 bigimg: /img/clearwater-trust-exchange.png
