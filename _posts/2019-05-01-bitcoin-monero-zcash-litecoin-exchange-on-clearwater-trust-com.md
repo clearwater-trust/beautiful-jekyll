@@ -3,6 +3,12 @@ layout: post
 published: false
 title: Bitcoin Monero Zcash Litecoin Exchange on Clearwater-Trust.com
 subtitle: Market Makers Wanted
+bigimg: /img/clearwater-trust-exchange.png
+tags:
+  - news
+  - clearwater-trust.com
+  - exchange
+  - bitcoin
 ---
 Enjoy immediate swaps for your favorite cryptocurrency. Order book FIFO matching. Volume and price selections. Bid and ask forms in bitcoin. USD exchange rates for sanity checks.
 
