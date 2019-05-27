@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Bitcoin to Monero Exchange
 bigimg: /img/bitcoin-to-monero.jpeg
 tags:
-  - news
+  - exchange
   - clearwater-trust.com
   - monero
   - bitcoin
