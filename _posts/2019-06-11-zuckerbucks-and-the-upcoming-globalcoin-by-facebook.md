@@ -1,8 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: ZuckerBucks and the Upcoming GlobalCoin by Facebook
 subtitle: What makes a blockchain valuable?
+bigimg: /img/zuckerberg.jpeg
+tags:
+  - facebook
+  - news
+  - monero
+  - bitcoin
 ---
 I’ve been in the blockchain space for a few years and I’d like to share with you my insight on what gives utility and value to a blockchain.
 
@@ -29,5 +35,6 @@ Finally, tying a coin to a national currency, sometimes called a “Stablecoin�
 I am interested to see what zucker bucks becomes. There is a way for Facebook to utilize a blockchain in a decentralized way but I think hell will freeze over before Zuckerberg and governments give that kind of control to the people.
 
 _Disclaimer: I may own zuckerbucks to pump and dump the market for my own financial gain._
+
 
 **peter**@[clearwater-trust.com](https://clearwater-trust.com)
