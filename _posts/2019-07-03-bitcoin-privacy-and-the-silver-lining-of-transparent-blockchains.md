@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Bitcoin Privacy and the Silver Lining of Transparent Blockchains
 bigimg: /img/bitcoin-to-monero.jpeg
 tags:
@@ -27,5 +27,4 @@ The real winners in the digital cash space will be distributed, decentralized, A
 The front-runners in blockcain privacy are Monero and Zcash- Monero being the only decentralized/distributed offering in existence at the time of this writing.
 
 [clearwater-trust.com – making sense of blockchains.](https://clearwater-trust.com)
-![clearwater-trust.com bitcoin privacy]({{site.baseurl}}/img/bitcoin-privacy.jpeg)
 
