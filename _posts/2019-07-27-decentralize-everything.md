@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Decentralize Everything
-bigimg: /img/decentralize everything.jpeg
+bigimg: img/decentralize%20everything.jpeg
 tags:
   - Decentralization
   - clearwater-trust.com
