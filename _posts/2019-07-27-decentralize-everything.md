@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Decentralize Everything
-bigimg: img/decentralize%20everything.jpeg
+bigimg: /img/decentralize-everything.jpeg
 tags:
   - Decentralization
   - clearwater-trust.com
@@ -26,3 +26,5 @@ Decentralization is our fight against monolithic economies.  Nation States and c
 We don’t believe in utopia. We believe in freedom. That includes the freedom to pay for this, or that, and NOT THAT! I’m NOT PAYING FOR THAT!
 
 Own the future. [Blockchain investment group at Clearwater-Trust.com](https://clearwater-trust.com)
+
+![decentralize-everything.jpeg]({{site.baseurl}}/img/decentralize-everything.jpeg)
