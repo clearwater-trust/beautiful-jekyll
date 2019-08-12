@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   The Game is Afoot: How Pepper.Works Uses Crypto and Content Creators for the
   Ultimate Social Media/Crypto Mashup
