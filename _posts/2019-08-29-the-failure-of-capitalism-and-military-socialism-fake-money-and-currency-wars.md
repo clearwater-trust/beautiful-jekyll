@@ -1,9 +1,17 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   The Failure of Capitalism and Military Socialism. Fake Money and Currency
   Wars.
+bigimg: /img/currency-wars.jpeg
+tags:
+  - Military Socialism
+  - Currency Wars
+  - clearwater-trust.com
+  - monero
+  - bitcoin
+subtitle: The Truth About International Finance
 ---
 If Capitalism and Military Socialism cannot compete without trade wars, tariffs, taxes, real wars, quantitative easing, total market/price controls and unaccountable money… then it’s time to admit defeat.
 
@@ -28,6 +36,5 @@ Luckily, we have safe assets that can circumvent the make-believe world of inter
 Ask me how to protect yourself and your family.
 
 The failure of Military Socialism and Capitalism. Currency Wars and Fake Money.
-Clearwater-Trust.com
 
-![currency-wars.jpeg]({{site.baseurl}}/img/currency-wars.jpeg)
+[Clearwater-Trust.com](https://clearwater-trust.com)
