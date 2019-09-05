@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Going To War Over The Trade Deficit is Dumb
-subtitle: Paying for the federal trade deficit is INVALID
+subtitle: Paying for the federal trade deficit is INVALID. NO MORE BAIL OUTS
 bigimg: /img/dumb-trade-war.jpeg
 tags:
   - Trade War
