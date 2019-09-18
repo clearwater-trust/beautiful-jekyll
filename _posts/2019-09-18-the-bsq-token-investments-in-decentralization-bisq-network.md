@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The BSQ Token – Investments In Decentralization – Bisq.Network
 subtitle: The Future of Finanace
 bigimg: /img/Bisq-global-volume_2019-09-18_101929_coin.dance.png
