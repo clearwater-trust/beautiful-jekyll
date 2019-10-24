@@ -14,7 +14,7 @@ tags:
 ---
 Billions and billions of emergency repo dollars are being pumped into the largest American banks attempting to assuage demand for CASH.
 
-It appears something is sucking CASH from their ledger system. Oh dear! What could it be?
+It appears something is sucking CASH from the American Banking System. Oh dear! What could it be?
 
 https://www.newyorkfed.org/markets/opolicy/operating_policy_191023
 
