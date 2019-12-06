@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Problem With Stablecoins and Pegged Blockchain Assets.
 bigimg: /img/stablecoins-are-fablecoins.jpeg
 tags:
