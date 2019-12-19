@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The DOD is a Jobs Program for Morons
 bigimg: /img/corporate-takeover-by-nelson808.jpeg
 tags:
@@ -21,7 +21,7 @@ End The Fed.
 Our Nation’s Treasury has been stolen.
 
 ## How do you know the Corporate State has infiltrated the Government?
-Because nobody wants perpetual war, domestic surveillance, militant police, yet, we have all of these things. Your representative democracy is sold/failed.
+Because nobody wants perpetual war, domestic surveillance, militant police, yet, we have all of these things. **Your representative democracy is sold/failed**.
 
 Image Credit
 Corporate Takeover
