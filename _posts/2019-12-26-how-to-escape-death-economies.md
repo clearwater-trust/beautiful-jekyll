@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: How To Escape Death Economies
 bigimg: /img/death-economy.jpeg
 tags:
