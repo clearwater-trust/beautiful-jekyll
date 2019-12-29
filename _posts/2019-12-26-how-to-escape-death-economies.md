@@ -8,7 +8,7 @@ tags:
   - monero
   - bitcoin
   - Extiction Rebellion
-subtitle: Extiction Rebellion
+subtitle: Extinction Rebellion
 ---
 Paying for your own extinction is suicide. **Neoliberal Capitalism** and the unaccountable money maze of **Corporate Debt**, **Federal Reserve Policy**, and **Political Pageantry** is funding the destruction of the planet.
 
