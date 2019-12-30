@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Greta Thunberg, Extinction Rebellion, and Real Accountability. The Year Is
   2020 AD
