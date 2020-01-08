@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Wages of Sin are Paid in USD
 bigimg: /img/USD%20is%20Sin.jpg
 tags:
