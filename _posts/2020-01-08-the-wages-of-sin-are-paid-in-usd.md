@@ -24,6 +24,6 @@ Who is going to [build a life](https://www.truthdig.com/articles/war-with-iran/)
 
 What are we to do?
 
-**Pray to your gods. This shit is fucked up. https://clearwater-trust.com**
+**Pray to your gods. This shit is fucked up. [https://clearwater-trust.com](https://clearwater-trust.com)**
 
 [economies of death](http://economiesofdeath.com/) built on perpetual war.
