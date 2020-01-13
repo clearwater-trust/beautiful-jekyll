@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   The Reason Corporate Governments Reject Decentralized Blockchains. Provable
   Accounting and Control.
