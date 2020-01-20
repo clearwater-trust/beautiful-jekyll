@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   Pork Barrel Pentagon Schmucks and Military Entitlement Queens. The Corporate
   Coup D’état and Representative Democracy
