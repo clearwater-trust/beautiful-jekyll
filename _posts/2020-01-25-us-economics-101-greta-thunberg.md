@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: US Economics 101 @ Greta Thunberg
 bigimg: /img/economics-101.jpeg
 tags:
