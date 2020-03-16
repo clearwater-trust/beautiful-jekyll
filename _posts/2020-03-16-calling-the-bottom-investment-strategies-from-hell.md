@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Calling The Bottom. Investment Strategies From Hell.
 subtitle: All Stops Leading To Hell. Climb Aboard The Wall Street Death Train.
 bigimg: /img/bottom of hell.jpg
