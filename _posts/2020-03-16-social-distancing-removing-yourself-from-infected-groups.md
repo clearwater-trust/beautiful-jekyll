@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Social Distancing. Removing Yourself From Infected Groups
 bigimg: /img/social-distancing.jpg
 tags:
