@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: A Sick Excuse for a Market Correction. Reconnecting Reality to Wall Street.
 subtitle: The Illusion of Supply/Demand Economics. Enter The Pandemic.
 bigimg: /img/fear-greed.jpg
@@ -9,6 +9,7 @@ tags:
   - monero
   - bitcoin
   - Extiction Rebellion
+date: '2020-02-28'
 ---
 There is nothing like a Pandemic to reconnect the illusion of reality to Wall Street returns. When your market goes up, and up, and up, and doesn’t respond to supply side economics (because the government injects trillions of dollars into the supply), when your market is no longer based in reality, your market is exposed as a fraud. A Nation State Ponzi scheme, Wall Street, Neoliberal Finance.
 
