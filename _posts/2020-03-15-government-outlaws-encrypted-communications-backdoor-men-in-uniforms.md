@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Government Outlaws Encrypted Communications – Backdoor Men in Uniforms
 bigimg: /img/Fish-Make-Believe-2048x1583.jpg
 tags:
