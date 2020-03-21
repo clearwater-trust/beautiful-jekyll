@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Garbage Global Networks and The Wall Street Ponzi Scheme
 subtitle: Buy A Share of Corporate Nonsense
 bigimg: /img/SATAN.jpg
