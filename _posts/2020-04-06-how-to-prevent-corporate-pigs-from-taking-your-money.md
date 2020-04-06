@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: How To Prevent Corporate Pigs From Taking Your Money
 bigimg: /img/corporate-pig.jpeg
 tags:
