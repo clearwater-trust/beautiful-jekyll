@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Save Yourself and Your Family from Economies of Death
 bigimg: /img/SATAN-corporate.jpg
 tags:
