@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Zero Accountability
 bigimg: /img/kneeling-pigs.jpeg
 tags:
