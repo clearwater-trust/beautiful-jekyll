@@ -4,7 +4,7 @@ published: true
 title: >-
   What is Fungible Money? Why is it important and what does it look like on the
   Bitcoin and Monero blockchain?
-bigimg: /img/bitcoin vs monero.jpeg
+bigimg: /img/bitcoin-vs-monero.jpeg
 tags:
   - Clearwater-Trust.com
   - monero
