@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Market Has Already Collapsed. WWIII and Fake Capital Markets
 subtitle: It is finished
 bigimg: /img/SATAN.jpg
