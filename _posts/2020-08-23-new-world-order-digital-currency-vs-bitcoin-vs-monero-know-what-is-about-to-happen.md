@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   New World Order Digital Currency vs Bitcoin vs Monero – Know What is About To
   Happen
