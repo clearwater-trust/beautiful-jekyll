@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: FEDERAL RESERVE DIGITAL DOLLARS ARE GARBAGE
 bigimg: /img/zuckerberg.jpeg
 tags:
