@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: THE WHORE OF BABYLON IS REVEALED – US ATTEMPTS TO FIREWALL DECENTRALIZED NODES
 bigimg: /img/economics-101.jpeg
 tags:
@@ -9,7 +9,7 @@ tags:
   - bitcoin
   - Fungible
   - federal reserve lies
-subtitle: Their Kingdom is Over
+subtitle: It will not last
 ---
 OMG. Your desperation is laughable. lol
 
@@ -32,4 +32,6 @@ WE WILL NOT COMPLY
 YOUR TIME IS UP!
 
 [Real Accountability is at hand – clearwater-trust.com](https://clearwater-trust.com)
+
+
 
