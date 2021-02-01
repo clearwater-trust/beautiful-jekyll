@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The GameStops Here - War of the Quants
 bigimg: /img/the-gamestops-here.jpeg
 tags:
@@ -11,7 +11,7 @@ tags:
   - federal reserve lies
 subtitle: Big bag of nothing.
 ---
-## Big brokerage firms holding nothing but a bag of garbage accounting.
+## Big brokerage firms hold nothing but a bag of garbage accounting.
 
 If you believe a bunch of redditor schmucks moved the market in their favor, you are a moron.
 
