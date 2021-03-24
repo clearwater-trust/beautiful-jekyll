@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: US TREASURY COLLAPSE APR 2021
 bigimg: /img/US-TREASURY-OUTLAYS-MAR2021.png
 tags:
@@ -21,6 +21,3 @@ They are collapsing the system. Get ready. Endure to the end. Love, compassion, 
 
 _To reproduce this chart go here:  https://www.quandl.com/data/FMSTREAS/MTS-Monthly-Treasury-Statement
 select OUTLAYS_
-
-![US-TREASURY-OUTLAYS-MAR2021.png]({{site.baseurl}}/img/US-TREASURY-OUTLAYS-MAR2021.png)
-
