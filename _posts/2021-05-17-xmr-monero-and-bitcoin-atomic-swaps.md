@@ -25,3 +25,5 @@ Take time now to visualize a future unlike anything you have experienced. New mo
 **The end of their system is the beginning of a new life. Love, compassion, charity and respect.**
 
 ![Walker-Southern-Homestead.jpg]({{site.baseurl}}/img/Walker-Southern-Homestead.jpg)
+
+[XMR Monero and Bitcoin Atomic Swaps](https://www.monerooutreach.org/stories/monero-atomic-swaps.html)
