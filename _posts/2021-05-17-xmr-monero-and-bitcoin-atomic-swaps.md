@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: XMR Monero and Bitcoin Atomic Swaps
 bigimg: /img/bitcoin-vs-monero.jpeg
 tags:
