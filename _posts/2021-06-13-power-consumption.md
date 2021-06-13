@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: POWER CONSUMPTION
 subtitle: How much power does it take to run one of these damned blockchains?
 bigimg: /img/USD-is-Sin.jpg
